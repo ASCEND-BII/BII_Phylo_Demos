@@ -3,6 +3,8 @@
 
 #### Dudu Meireles 2021
 
+#### License: GPL3
+
 ---
 
 ## What is here?
